@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5edff42-87ae-4b79-9b16-c68332851e9d" name="デフォルト" comment="" />
+    <list default="true" id="b5edff42-87ae-4b79-9b16-c68332851e9d" name="デフォルト" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -179,7 +181,7 @@
       <workItem from="1519213651806" duration="3056000" />
       <workItem from="1519241682526" duration="183000" />
       <workItem from="1519241942548" duration="2576000" />
-      <workItem from="1519245197443" duration="135000" />
+      <workItem from="1519245197443" duration="220000" />
     </task>
     <task id="LOCAL-00001" summary="1章1.3の1-1実装">
       <created>1519217185040</created>
@@ -192,7 +194,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5950000" />
+    <option name="totallyTimeSpent" value="6035000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="922" y="29" width="990" height="1051" extended-state="0" />
@@ -351,7 +353,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
